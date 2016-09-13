@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://bit.ly/2cACAB0' target='_blank'><img src='http://banxevespa.com/wp-content/uploads/2015/05/evo1402633134.jpg' width='500px'/><br/>13 Mua vespa trả góp 0% lãi suất </a>. Hotline : 093 22 765 99. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://bit.ly/2cACAB0' target='_blank'><img src='http://banxevespa.com/wp-content/uploads/2015/05/evo1402633134.jpg' width='500px'/><br/> Mua vespa trả góp 0% lãi suất </a>. Hotline : 093 22 765 99. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
